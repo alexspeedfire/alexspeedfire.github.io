@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-RU</language>
     <copyright>© 2019 Alex Speedfire</copyright>
-    <lastBuildDate>Thu, 14 Mar 2019 13:16:19 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 12:42:34 +0300</lastBuildDate>
     
 	<atom:link href="https://alexspeedfire.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Posh Grabber</title>
-      <link>https://alexspeedfire.github.io/2019/03/14/posh-grabber/</link>
-      <pubDate>Thu, 14 Mar 2019 13:16:19 +0300</pubDate>
-      
-      <guid>https://alexspeedfire.github.io/2019/03/14/posh-grabber/</guid>
-      <description>И начнём мы с небольшого posh скрипта, который меня попросил написать знакомый, который сейчас увлёкся дмством по ДнД (что, ко моему мнению немного странно в 2019 году, но это на его совести).
-Дано:  Необходимо выкачать различный арт для личного использования. Ссылки на арт находятся в файле. Ставить какой-либо софт очень не хочется, а руками качать - долго и неудобно.  Проблема  Арт хранится в хранилище S3, так что с названиями файлов всё плохо - они одинаковые.</description>
-    </item>
     
     <item>
       <title>О сайте и окружающем</title>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-RU</language>
     <copyright>© 2019 Alex Speedfire</copyright>
-    <lastBuildDate>Thu, 14 Mar 2019 13:16:19 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 12:42:34 +0300</lastBuildDate>
     
 	<atom:link href="https://alexspeedfire.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>About</title>
       <link>https://alexspeedfire.github.io/categories/about/</link>
-      <pubDate>Thu, 14 Mar 2019 13:16:19 +0300</pubDate>
+      <pubDate>Thu, 14 Mar 2019 12:42:34 +0300</pubDate>
       
       <guid>https://alexspeedfire.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offwork</title>
+      <link>https://alexspeedfire.github.io/categories/offwork/</link>
+      <pubDate>Thu, 14 Mar 2019 13:16:19 +0300</pubDate>
+      
+      <guid>https://alexspeedfire.github.io/categories/offwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripts</title>
+      <link>https://alexspeedfire.github.io/categories/scripts/</link>
+      <pubDate>Thu, 14 Mar 2019 13:16:19 +0300</pubDate>
+      
+      <guid>https://alexspeedfire.github.io/categories/scripts/</guid>
       <description></description>
     </item>
     
