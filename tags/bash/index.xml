@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Offwork on Рандомные куски кода.</title>
-    <link>https://alexspeedfire.github.io/categories/offwork/</link>
-    <description>Recent content in Offwork on Рандомные куски кода.</description>
+    <title>Bash on Рандомные куски кода.</title>
+    <link>https://alexspeedfire.github.io/tags/bash/</link>
+    <description>Recent content in Bash on Рандомные куски кода.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 14 Mar 2019 14:21:04 +0300</lastBuildDate>
     
-	<atom:link href="https://alexspeedfire.github.io/categories/offwork/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexspeedfire.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>&lt;p&gt;В ходе ковыряния с &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; и сохранения результата в виде этого сайта мне надоело руками фигачить команды, а пример скрипта на офсайте был только для mac/linux.&lt;/p&gt;
 
 &lt;p&gt;Стало быть пишем свой! Представляет он из себя банальный батник, но с вызовами некоторых хвостов поша, чтобы каждый раз не вводить текст коммита.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Posh Grabber</title>
-      <link>https://alexspeedfire.github.io/post/2019/03/14/posh-grabber/</link>
-      <pubDate>Thu, 14 Mar 2019 13:16:19 +0300</pubDate>
-      
-      <guid>https://alexspeedfire.github.io/post/2019/03/14/posh-grabber/</guid>
-      <description>&lt;p&gt;И начнём мы с небольшого posh скрипта, который меня попросил написать знакомый, который сейчас увлёкся дмством по ДнД (что, ко моему мнению немного странно в 2019 году, но это на его совести).&lt;/p&gt;</description>
     </item>
     
   </channel>

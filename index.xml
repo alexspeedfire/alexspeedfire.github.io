@@ -6,10 +6,21 @@
     <description>Recent content on Рандомные куски кода.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 14 Mar 2019 13:16:19 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 14:21:04 +0300</lastBuildDate>
     
 	<atom:link href="https://alexspeedfire.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Push Gitpages</title>
+      <link>https://alexspeedfire.github.io/post/2019/03/14/push-gitpages/</link>
+      <pubDate>Thu, 14 Mar 2019 14:21:04 +0300</pubDate>
+      
+      <guid>https://alexspeedfire.github.io/post/2019/03/14/push-gitpages/</guid>
+      <description>&lt;p&gt;В ходе ковыряния с &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; и сохранения результата в виде этого сайта мне надоело руками фигачить команды, а пример скрипта на офсайте был только для mac/linux.&lt;/p&gt;
+
+&lt;p&gt;Стало быть пишем свой! Представляет он из себя банальный батник, но с вызовами некоторых хвостов поша, чтобы каждый раз не вводить текст коммита.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Posh Grabber</title>
