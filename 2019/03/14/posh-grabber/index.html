@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en-RU">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-  <title>Tags</title>
+  <title>Posh Grabber</title>
   <link href="https://alexspeedfire.github.io/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="https://alexspeedfire.github.io/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
@@ -56,26 +55,86 @@
 <div class="container">
   <div class="section">
 
-    <div class="collection">
+    <div class="row">
+      <div class="col s12">
+        <div class="card-panel">
+          <h4>Posh Grabber</h4>
+          <p>
+          
+            
+              <a href="https://alexspeedfire.github.io/categories/about/">about</a>
+            
+           
+          </p>
+          <p>
+
+<p>И начнём мы с небольшого posh скрипта, который меня попросил написать знакомый, который сейчас увлёкся дмством по ДнД (что, ко моему мнению немного странно в 2019 году, но это на его совести).</p>
+
+<h3 id="дано">Дано:</h3>
+
+<ul>
+<li>Необходимо выкачать различный арт для личного использования. Ссылки на арт находятся в файле.</li>
+<li>Ставить какой-либо софт очень не хочется, а руками качать - долго и неудобно.</li>
+</ul>
+
+<h3 id="проблема">Проблема</h3>
+
+<ul>
+<li>Арт хранится в хранилище S3, так что с названиями файлов всё плохо - они одинаковые.</li>
+</ul>
+
+<h3 id="решение">Решение:</h3>
+
+<p>Так как знакомый является пользователем винды (как, впрочем, и я), то в качестве быстрого решения был накидан скрипт, который быстро выкачал ему все необходимые файлы.</p>
+
+<pre><code class="language-powershell">$links = Get-Content -Path .\files.txt
+$path = &quot;.\download&quot;
+$ext = &quot;.png&quot;
+
+New-Item -Path $path -ItemType Directory
+foreach ($link in $links) {
+    $filename = Split-Path(Split-Path($link)) -Leaf
+    $newname = Join-Path $path $filename
+    $newname = $newname + $ext
+    Invoke-WebRequest -Uri $link -OutFile $newname
+}
+</code></pre>
+</p>
+          <p>14 Mar 2019
+            
+              
+                <a href="https://alexspeedfire.github.io/tags/powershell/">#powershell</a>
+              
+                <a href="https://alexspeedfire.github.io/tags/wget/">#wget</a>
+              
+                <a href="https://alexspeedfire.github.io/tags/ni/">#ni</a>
+              
+                <a href="https://alexspeedfire.github.io/tags/gc/">#gc</a>
+              
+            
+          </p>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s3 m1">
       
-        <a href="https://alexspeedfire.github.io/tags/gc" class="collection-item"><i class="mdi-action-loyalty left"></i>gc<div class="secondary-content">1</div></a>
+        <a class="btn-floating btn-large disabled"><i class="mdi-navigation-arrow-back"></i></a>
       
-        <a href="https://alexspeedfire.github.io/tags/git" class="collection-item"><i class="mdi-action-loyalty left"></i>git<div class="secondary-content">1</div></a>
+      </div>
+      <div class="col s6 m10 center">&nbsp</div>
+      <div class="col s3 m1">
       
-        <a href="https://alexspeedfire.github.io/tags/misc" class="collection-item"><i class="mdi-action-loyalty left"></i>misc<div class="secondary-content">1</div></a>
+        <a class="btn-floating btn-large waves-effect waves-light" href="https://alexspeedfire.github.io/2019/03/14/about/"><i class="mdi-navigation-arrow-forward"></i></a>
       
-        <a href="https://alexspeedfire.github.io/tags/ni" class="collection-item"><i class="mdi-action-loyalty left"></i>ni<div class="secondary-content">1</div></a>
-      
-        <a href="https://alexspeedfire.github.io/tags/nocode" class="collection-item"><i class="mdi-action-loyalty left"></i>nocode<div class="secondary-content">1</div></a>
-      
-        <a href="https://alexspeedfire.github.io/tags/powershell" class="collection-item"><i class="mdi-action-loyalty left"></i>powershell<div class="secondary-content">1</div></a>
-      
-        <a href="https://alexspeedfire.github.io/tags/wget" class="collection-item"><i class="mdi-action-loyalty left"></i>wget<div class="secondary-content">1</div></a>
-      
+      </div>
     </div>
 
   </div>
 </div>
+
   <footer class="page-footer">
     <div class="footer-copyright">
       <div class="container">
@@ -93,3 +152,4 @@
 
   </body>
 </html>
+
