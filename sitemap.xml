@@ -3,19 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alexspeedfire.github.io/2019/03/14/posh-grabber/</loc>
+    <loc>https://alexspeedfire.github.io/post/2019/03/14/posh-grabber/</loc>
     <lastmod>2019-03-14T13:16:19+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexspeedfire.github.io/2019/03/14/about/</loc>
+    <loc>https://alexspeedfire.github.io/post/2019/03/14/about/</loc>
     <lastmod>2019-03-14T12:42:34+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexspeedfire.github.io/2019/</loc>
-    <lastmod>2019-03-14T13:16:19+03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -62,6 +56,12 @@
   
   <url>
     <loc>https://alexspeedfire.github.io/categories/offwork/</loc>
+    <lastmod>2019-03-14T13:16:19+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexspeedfire.github.io/post/</loc>
     <lastmod>2019-03-14T13:16:19+03:00</lastmod>
     <priority>0</priority>
   </url>

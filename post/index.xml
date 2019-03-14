@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nocode on Рандомные куски кода.</title>
-    <link>https://alexspeedfire.github.io/tags/nocode/</link>
-    <description>Recent content in Nocode on Рандомные куски кода.</description>
+    <title>Posts on Рандомные куски кода.</title>
+    <link>https://alexspeedfire.github.io/post/</link>
+    <description>Recent content in Posts on Рандомные куски кода.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 14 Mar 2019 12:42:34 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 13:16:19 +0300</lastBuildDate>
     
-	<atom:link href="https://alexspeedfire.github.io/tags/nocode/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexspeedfire.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posh Grabber</title>
+      <link>https://alexspeedfire.github.io/post/2019/03/14/posh-grabber/</link>
+      <pubDate>Thu, 14 Mar 2019 13:16:19 +0300</pubDate>
+      
+      <guid>https://alexspeedfire.github.io/post/2019/03/14/posh-grabber/</guid>
+      <description>&lt;p&gt;И начнём мы с небольшого posh скрипта, который меня попросил написать знакомый, который сейчас увлёкся дмством по ДнД (что, ко моему мнению немного странно в 2019 году, но это на его совести).&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>О сайте и окружающем</title>

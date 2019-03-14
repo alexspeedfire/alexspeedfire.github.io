@@ -5,8 +5,7 @@
     <link>https://alexspeedfire.github.io/tags/misc/</link>
     <description>Recent content in Misc on Рандомные куски кода.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-RU</language>
-    <copyright>© 2019 Alex Speedfire</copyright>
+    <language>ru-ru</language>
     <lastBuildDate>Thu, 14 Mar 2019 12:42:34 +0300</lastBuildDate>
     
 	<atom:link href="https://alexspeedfire.github.io/tags/misc/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>О сайте и окружающем</title>
-      <link>https://alexspeedfire.github.io/2019/03/14/about/</link>
+      <link>https://alexspeedfire.github.io/post/2019/03/14/about/</link>
       <pubDate>Thu, 14 Mar 2019 12:42:34 +0300</pubDate>
       
-      <guid>https://alexspeedfire.github.io/2019/03/14/about/</guid>
+      <guid>https://alexspeedfire.github.io/post/2019/03/14/about/</guid>
       <description>Этот сайт - попытка систематизировать и привести в порядок все те скрипты, что были написаны с разными целями за последние лет 10. А так же - более расширенная версия README.md из соответствующих репозиториев.
 Небольшой нюанс - часть кода написана в закрытом периметре (да, без доступа к благам цивилизации напрямую), так что возможны велосипеды, хардкод и прочие гадости.</description>
     </item>
