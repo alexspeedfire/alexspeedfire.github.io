@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Рандомные куски кода.</title>
+    <link>https://alexspeedfire.github.io/categories/</link>
+    <description>Recent content in Categories on Рандомные куски кода.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-RU</language>
+    <copyright>© 2019 Alex Speedfire</copyright>
+    <lastBuildDate>Thu, 14 Mar 2019 12:42:34 +0300</lastBuildDate>
+    
+	<atom:link href="https://alexspeedfire.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://alexspeedfire.github.io/categories/about/</link>
+      <pubDate>Thu, 14 Mar 2019 12:42:34 +0300</pubDate>
+      
+      <guid>https://alexspeedfire.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
