@@ -6,10 +6,20 @@
     <description>Recent content in Offwork on Рандомные куски кода.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 14 Mar 2019 14:21:04 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 13:02:00 +0300</lastBuildDate>
     
 	<atom:link href="https://alexspeedfire.github.io/categories/offwork/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Сборка чужих книжек с гитбука.</title>
+      <link>https://alexspeedfire.github.io/post/2019/04/08/gitbook/</link>
+      <pubDate>Mon, 08 Apr 2019 13:02:00 +0300</pubDate>
+      
+      <guid>https://alexspeedfire.github.io/post/2019/04/08/gitbook/</guid>
+      <description>Я сейчас нахожусь в состоянии &amp;ldquo;что бы интересного почитать, чтобы немного поразмять мозг&amp;rdquo;. И вот сегодня на хабре всплыла короткая новость про &amp;ldquo;Сети для самых маленьких&amp;rdquo;, которая выложена на gitbook.io.
+Так вышло, что тема сетей в моей голове сейчас находится в состоянии бардака и подобная книжка очень неплохо зайдёт после того, как я закончу текущую книжку по ансиблу. Осталась малость - в онлайне читать мне не очень удобно, хочется это получить в более удобном виде.</description>
+    </item>
     
     <item>
       <title>Push Gitpages</title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alexspeedfire.github.io/post/2019/04/08/gitbook/</loc>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alexspeedfire.github.io/post/2019/03/14/push-gitpages/</loc>
     <lastmod>2019-03-14T14:21:04+03:00</lastmod>
   </url>
@@ -43,7 +48,19 @@
   
   <url>
     <loc>https://alexspeedfire.github.io/tags/git/</loc>
-    <lastmod>2019-03-14T12:42:34+03:00</lastmod>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexspeedfire.github.io/tags/gitbook/</loc>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexspeedfire.github.io/categories/howto/</loc>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,14 +83,20 @@
   </url>
   
   <url>
+    <loc>https://alexspeedfire.github.io/tags/nodejs/</loc>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://alexspeedfire.github.io/categories/offwork/</loc>
-    <lastmod>2019-03-14T14:21:04+03:00</lastmod>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alexspeedfire.github.io/post/</loc>
-    <lastmod>2019-03-14T14:21:04+03:00</lastmod>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,8 +125,14 @@
   </url>
   
   <url>
+    <loc>https://alexspeedfire.github.io/tags/win64/</loc>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://alexspeedfire.github.io/</loc>
-    <lastmod>2019-03-14T14:21:04+03:00</lastmod>
+    <lastmod>2019-04-08T13:02:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
